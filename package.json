@@ -4,7 +4,8 @@
   "description": "test",
   "main": "app.js",
   "scripts": {
-    "serve": "node app.js"
+    "serve": "node app.js",
+    "start": "node app.js"
   },
   "author": "ENSABS",
   "license": "ISC",
